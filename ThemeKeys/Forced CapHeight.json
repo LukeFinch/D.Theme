@@ -2,7 +2,7 @@
   "themeName": "Forced CapHeight",
   "children": {
     "D.": {
-      "themeName": "D.",
+      "themeName": "D.Cap",
       "children": {},
       "tokens": {
         "transparent": "d802c8ded1ae4192b7511cbc66269623f275aa0f",
